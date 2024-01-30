@@ -7,6 +7,10 @@
 // @match        *://*.anilibria.tv/release/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=anilibria.tv
 // @grant        none
+// @downloadURL  https://github.com/Kalybr50/ShikiLibria/blob/main/ShikiLibria.user.js
+// @updateURL    https://github.com/Kalybr50/ShikiLibria/blob/main/ShikiLibria.user.js
+// @supportURL   https://github.com/Kalybr50/ShikiLibria/issues
+// @homepageURL  https://github.com/Kalybr50/ShikiLibria/issues
 // ==/UserScript==
 
 (function() {
